@@ -6,4 +6,10 @@ There has been lots of hype behind the concept of autonomous vehicles and self-d
 
 ## Objective
 
-In this project, we aim to build a deep neural network model that will classify traffic signs in images into different categories. We will be using a dataset containing more than 50,000 images of different traffic signs. The dataset will contain a variety of images classified into 43 different classes.Our approach to building this traffic sign classification model is discussed in four steps:Explore the datasetBuild a CNN modelTrain and validate the modelTest the model with test datasetTo classify the images into their respective categories, we will build a CNN model (Convolutional Neural Network). CNN is best for image classification purposes.
+In this project, we aim to build a deep neural network model that will classify traffic signs in images into different categories. We will be using a dataset containing more than 50,000 images of different traffic signs. The dataset will contain a variety of images classified into 43 different classes.Our approach to building this traffic sign classification model is discussed in four steps:
+1.) Explore the dataset
+2.) Build a CNN model
+3.) Train and validate the model
+4.) Test the model with test dataset
+
+To classify the images into their respective categories, we will build a CNN model (Convolutional Neural Network). CNN is best for image classification purposes.
